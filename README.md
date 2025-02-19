@@ -4,7 +4,7 @@ I'm Yuchan Han, aka "Jacklight", and I'm a backend and blockchain student develo
 I am studying at 🏫 **Sunrint Internet High School**, **🇰🇷 South Korea**. 
 
 #### Contact Me
-ENS: jacklight.eth / Discord: jacklight74 / Email: me@ychan.me
+ENS: jacklight.eth / Discord: jacklight74 / Email: me@ychan.me / Instagram: 71yuchan
 
 ## 🧰  My tools
 ### Frontend
